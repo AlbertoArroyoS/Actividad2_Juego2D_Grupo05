@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: f9efcc772e1d3244199f36505020b732
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9004876600828163578
+    second: PinocchioNariz_0
+  - first:
+      213: -713978541632397013
+    second: PinocchioNariz_1
+  - first:
+      213: 5984131630048154352
+    second: PinocchioNariz_2
+  - first:
+      213: -3532441216215883031
+    second: PinocchioNariz_3
+  - first:
+      213: 8862874823347963938
+    second: PinocchioNariz_4
+  - first:
+      213: 8731853483235322659
+    second: PinocchioNariz_5
+  - first:
+      213: 5219502288293987546
+    second: PinocchioNariz_6
+  - first:
+      213: 8710077780526896452
+    second: PinocchioNariz_7
+  - first:
+      213: 8657472165047430690
+    second: PinocchioNariz_8
+  - first:
+      213: 4869607187031984956
+    second: PinocchioNariz_9
+  - first:
+      213: -5388656791263678036
+    second: PinocchioNariz_10
+  - first:
+      213: 5779963701442842269
+    second: PinocchioNariz_11
+  - first:
+      213: -634170049293151899
+    second: PinocchioNariz_12
+  - first:
+      213: 4871483156799930097
+    second: PinocchioNariz_13
+  - first:
+      213: 6096737510057691867
+    second: PinocchioNariz_14
+  - first:
+      213: -6143331183580903547
+    second: PinocchioNariz_15
+  - first:
+      213: 6174738550828939004
+    second: PinocchioNariz_16
+  - first:
+      213: -732306303879354085
+    second: PinocchioNariz_17
+  - first:
+      213: -5775330295152598018
+    second: PinocchioNariz_18
+  - first:
+      213: 2900150254018217709
+    second: PinocchioNariz_19
+  - first:
+      213: 4680469187691447475
+    second: PinocchioNariz_20
+  - first:
+      213: -3241919836995601404
+    second: PinocchioNariz_21
+  - first:
+      213: 4121353593900712977
+    second: PinocchioNariz_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PinocchioNariz_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5f69efe8fb7fc70800000000000000
+      internalID: 9004876600828163578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinocchioNariz_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 3
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21efb89c407716f0800000000000000
+      internalID: -713978541632397013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinocchioNariz_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 3
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f213322308eb0350800000000000000
+      internalID: 5984131630048154352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinocchioNariz_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 3
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2e085fd6f3afec0800000000000000
+      internalID: -3532441216215883031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinocchioNariz_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 3
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228886eb1b14ffa70800000000000000
+      internalID: 8862874823347963938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinocchioNariz_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32baffaca76cd2970800000000000000
+      internalID: 8731853483235322659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinocchioNariz_6
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 3
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad40a165da56f6840800000000000000
+      internalID: 5219502288293987546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinocchioNariz_7
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 3
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445145ae79960e870800000000000000
+      internalID: 8710077780526896452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinocchioNariz_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 3
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22eeb7a9015852870800000000000000
+      internalID: 8657472165047430690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinocchioNariz_9
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 3
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b0bb2bfe1549340800000000000000
+      internalID: 4869607187031984956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinocchioNariz_10
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 3
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca17b3cd235a735b0800000000000000
+      internalID: -5388656791263678036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinocchioNariz_11
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 3
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e0727ec5e863050800000000000000
+      internalID: 5779963701442842269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinocchioNariz_12
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 3
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56190bc33b9f237f0800000000000000
+      internalID: -634170049293151899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinocchioNariz_13
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 3
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1febb52fe1cfa9340800000000000000
+      internalID: 4871483156799930097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinocchioNariz_14
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 3
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdac9c7a676fb9450800000000000000
+      internalID: 6096737510057691867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinocchioNariz_15
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 3
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587841956d08ebaa0800000000000000
+      internalID: -6143331183580903547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinocchioNariz_16
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 3
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6b11f2ff311b550800000000000000
+      internalID: 6174738550828939004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinocchioNariz_17
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 3
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19ed7aeb4356d5f0800000000000000
+      internalID: -732306303879354085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinocchioNariz_18
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3a0e012b7e9dfa0800000000000000
+      internalID: -5775330295152598018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinocchioNariz_19
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 3
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6c3065a476f3820800000000000000
+      internalID: 2900150254018217709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinocchioNariz_20
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b482829ded54f040800000000000000
+      internalID: 4680469187691447475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinocchioNariz_21
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 3
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cb59da5136203d0800000000000000
+      internalID: -3241919836995601404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinocchioNariz_22
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 3
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1144b3ef14df13930800000000000000
+      internalID: 4121353593900712977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a305eaf3fb0e7b5429ed79738b62d9cf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PinocchioNariz_0: 9004876600828163578
+      PinocchioNariz_1: -713978541632397013
+      PinocchioNariz_10: -5388656791263678036
+      PinocchioNariz_11: 5779963701442842269
+      PinocchioNariz_12: -634170049293151899
+      PinocchioNariz_13: 4871483156799930097
+      PinocchioNariz_14: 6096737510057691867
+      PinocchioNariz_15: -6143331183580903547
+      PinocchioNariz_16: 6174738550828939004
+      PinocchioNariz_17: -732306303879354085
+      PinocchioNariz_18: -5775330295152598018
+      PinocchioNariz_19: 2900150254018217709
+      PinocchioNariz_2: 5984131630048154352
+      PinocchioNariz_20: 4680469187691447475
+      PinocchioNariz_21: -3241919836995601404
+      PinocchioNariz_22: 4121353593900712977
+      PinocchioNariz_3: -3532441216215883031
+      PinocchioNariz_4: 8862874823347963938
+      PinocchioNariz_5: 8731853483235322659
+      PinocchioNariz_6: 5219502288293987546
+      PinocchioNariz_7: 8710077780526896452
+      PinocchioNariz_8: 8657472165047430690
+      PinocchioNariz_9: 4869607187031984956
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

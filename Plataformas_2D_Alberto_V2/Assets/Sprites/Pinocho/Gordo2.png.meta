@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: 2fc85ac539a7f6543b35528ff9741dcd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3764351564224591054
+    second: Gordo2_0
+  - first:
+      213: -1706498563544072224
+    second: Gordo2_1
+  - first:
+      213: -1498795912582262287
+    second: Gordo2_2
+  - first:
+      213: -4584640954806552455
+    second: Gordo2_3
+  - first:
+      213: -4767751061850589229
+    second: Gordo2_4
+  - first:
+      213: -7888642690232741476
+    second: Gordo2_5
+  - first:
+      213: 4810830936730385254
+    second: Gordo2_6
+  - first:
+      213: -2545818964960787431
+    second: Gordo2_7
+  - first:
+      213: -2736783317302484836
+    second: Gordo2_8
+  - first:
+      213: 3857678644199794092
+    second: Gordo2_9
+  - first:
+      213: 4443173216841269661
+    second: Gordo2_10
+  - first:
+      213: -4022342810665972518
+    second: Gordo2_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gordo2_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b05bc523652cbc0800000000000000
+      internalID: -3764351564224591054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gordo2_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efbd3e099c4158e0800000000000000
+      internalID: -1706498563544072224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gordo2_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f11ab7fe05333be0800000000000000
+      internalID: -1498795912582262287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gordo2_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2
+        width: 44
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9783c0297551060c0800000000000000
+      internalID: -4584640954806552455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gordo2_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2
+        width: 78
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d777ec7bab85ddb0800000000000000
+      internalID: -4767751061850589229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gordo2_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2
+        width: 76
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9112b0e449e58290800000000000000
+      internalID: -7888642690232741476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gordo2_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2
+        width: 60
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b36428f3183c240800000000000000
+      internalID: 4810830936730385254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gordo2_7
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2
+        width: 77
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9144f03c32f6bacd0800000000000000
+      internalID: -2545818964960787431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gordo2_8
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1
+        width: 112
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.99}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9068f0b21ef40ad0800000000000000
+      internalID: -2736783317302484836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gordo2_9
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1
+        width: 93
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.99}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5a32db94a398530800000000000000
+      internalID: 3857678644199794092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gordo2_10
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 0
+        width: 80
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.99}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d918a51ff7259ad30800000000000000
+      internalID: 4443173216841269661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gordo2_11
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 2
+        width: 61
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.99}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc88656684cd28c0800000000000000
+      internalID: -4022342810665972518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a2358d0461601ef4592cbb5a1a423fcb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Gordo2_0: -3764351564224591054
+      Gordo2_1: -1706498563544072224
+      Gordo2_10: 4443173216841269661
+      Gordo2_11: -4022342810665972518
+      Gordo2_2: -1498795912582262287
+      Gordo2_3: -4584640954806552455
+      Gordo2_4: -4767751061850589229
+      Gordo2_5: -7888642690232741476
+      Gordo2_6: 4810830936730385254
+      Gordo2_7: -2545818964960787431
+      Gordo2_8: -2736783317302484836
+      Gordo2_9: 3857678644199794092
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

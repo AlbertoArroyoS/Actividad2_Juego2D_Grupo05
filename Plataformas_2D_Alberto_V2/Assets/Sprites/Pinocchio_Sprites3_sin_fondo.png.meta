@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: 2524e8d5be354af45a2bee37a554f194
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3325462028189571564
+    second: Pinocchio_Sprites3_sin_fondo_0
+  - first:
+      213: -813257473815749114
+    second: Pinocchio_Sprites3_sin_fondo_1
+  - first:
+      213: 6990081949481516865
+    second: Pinocchio_Sprites3_sin_fondo_2
+  - first:
+      213: 1511231444467014379
+    second: Pinocchio_Sprites3_sin_fondo_3
+  - first:
+      213: 1785100187406682085
+    second: Pinocchio_Sprites3_sin_fondo_4
+  - first:
+      213: 1390990292659511714
+    second: Pinocchio_Sprites3_sin_fondo_5
+  - first:
+      213: -6917711801365410839
+    second: Pinocchio_Sprites3_sin_fondo_6
+  - first:
+      213: -5159570800513729442
+    second: Pinocchio_Sprites3_sin_fondo_7
+  - first:
+      213: 8741770436646214226
+    second: Pinocchio_Sprites3_sin_fondo_8
+  - first:
+      213: 3357228946610557901
+    second: Pinocchio_Sprites3_sin_fondo_9
+  - first:
+      213: -7434495207869879261
+    second: Pinocchio_Sprites3_sin_fondo_10
+  - first:
+      213: 793655617103203039
+    second: Pinocchio_Sprites3_sin_fondo_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pinocchio_Sprites3_sin_fondo_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619d2c546a14fc949bed3ed39a06f1a5
+      internalID: -1512207036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinocchio_Sprites3_sin_fondo_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 6
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f8311a3fdb2d941b70a36224b256ec
+      internalID: -507309240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinocchio_Sprites3_sin_fondo_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 5
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5d83d9989dc4041adb80b737516b02
+      internalID: -2099505396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinocchio_Sprites3_sin_fondo_3
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 5
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94175053a3178447a116aa6db93de17
+      internalID: -1318319022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinocchio_Sprites3_sin_fondo_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 6
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67259e10115f3a74f96e7e276280ad30
+      internalID: -1929415126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinocchio_Sprites3_sin_fondo_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 5
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e7af4c476044146817875ba6e9549e
+      internalID: -908258762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinocchio_Sprites3_sin_fondo_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 5
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee0c467c2bccd24baac170f682b95fc
+      internalID: -1696588004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinocchio_Sprites3_sin_fondo_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 5
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1b58e83f2affe45bcb753ae6276b21
+      internalID: 2012654150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinocchio_Sprites3_sin_fondo_8
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 5
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019c0e70255a819409c1c16abe1bc13b
+      internalID: -2035971735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinocchio_Sprites3_sin_fondo_9
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 5
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1990e79d418dca4391a2ca672c5d691
+      internalID: 1316631463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinocchio_Sprites3_sin_fondo_10
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 5
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c689d7567429d4780672f73a62c97d
+      internalID: 1795428223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinocchio_Sprites3_sin_fondo_11
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 5
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce3dc34fff44c246834a6b01645c6c9
+      internalID: -1728574851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: eccb3880721bd034bb6f294568120496
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pinocchio_Sprites3_sin_fondo_0: -1512207036
+      Pinocchio_Sprites3_sin_fondo_1: -507309240
+      Pinocchio_Sprites3_sin_fondo_10: 1795428223
+      Pinocchio_Sprites3_sin_fondo_11: -1728574851
+      Pinocchio_Sprites3_sin_fondo_2: -2099505396
+      Pinocchio_Sprites3_sin_fondo_3: -1318319022
+      Pinocchio_Sprites3_sin_fondo_4: -1929415126
+      Pinocchio_Sprites3_sin_fondo_5: -908258762
+      Pinocchio_Sprites3_sin_fondo_6: -1696588004
+      Pinocchio_Sprites3_sin_fondo_7: 2012654150
+      Pinocchio_Sprites3_sin_fondo_8: -2035971735
+      Pinocchio_Sprites3_sin_fondo_9: 1316631463
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
