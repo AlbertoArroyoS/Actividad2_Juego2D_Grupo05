@@ -8,6 +8,10 @@ Actividad Realizada por:
 
 
 
+https://github.com/AlbertoArroyoS/Actividad2_Juego2D_Grupo05/assets/122359692/7ff1a85c-2588-45fc-b29b-9d00f9215fd0
+
+
+
 El juego consiste en conseguir el anillo de la Princesa Erika y llevarlo a su cofre
 para poder celebrar el cumpleaños de Erika.
 
