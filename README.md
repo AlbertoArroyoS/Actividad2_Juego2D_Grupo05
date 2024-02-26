@@ -2,9 +2,11 @@
 
 ## AE-2. Juego en 2D
 
-Actividad Realizada por:
+## Componentes del grupo:
 
-###  Alberto Arroyo Santofimia
+### Alejandro Aguiar Díaz
+
+### Alberto Arroyo Santofimia
 
 
 
